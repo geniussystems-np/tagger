@@ -1,0 +1,19 @@
+{
+    "name": "geniussystems-np/tagger",
+    "description": "ETag Middleware for Resources",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yagya Chaudhary",
+            "email": "mail@bdryagya.com.np"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "GeniusSystems\\Http\\Middleware\\": "src/Http/Middleware/"
+        }
+    },
+    "require": {}
+}
